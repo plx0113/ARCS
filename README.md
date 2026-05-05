@@ -30,7 +30,7 @@ The result is a complete, enumerable library of everything the human hand can ph
 - Backward reach follows a **U-curve**: minimum at center neck, maximum at the edges
 - Thumb rotation increases with T_y position, approaching **180°** at extreme positions
 
-None of this has been documented in the academic literature before.
+I have not found another published framework that models guitar this way: as a thumb-anchored, enumerable hand-state space.
 
 ## Quick Start
 
