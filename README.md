@@ -4,7 +4,7 @@
 
 **The number: 95,463,125,226 unique bang points.** That's every legal combination of left-hand finger placement and right-hand string strike on a standard 6-string, 23-fret guitar. From one pair of hands.
 
-Guitar is more combinatorially complex than chess.
+Guitar has a surprisingly large local state space: millions of physically legal hand configurations from a single thumb position.
 
 ---
 
