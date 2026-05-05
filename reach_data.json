@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "player": "plx0 (reference hand)",
+    "guitar": "Schecter Diamond Series C-6 Deluxe",
+    "tuning": "Standard EADGBE",
+    "date": "2026-05-05",
+    "notes": "All measurements taken at T_x=5. Values are fret counts relative to T_x. To calibrate your own hand: plant thumb at each T position, test each finger's max comfortable reach in both directions, split by string group (1-3 low, 4-6 high)."
+  },
+  "calibration": {
+    "1": {
+      "1": {"down_low": 2, "down_high": 3, "up_low": 3, "up_high": 3},
+      "2": {"down_low": 1, "down_high": 1, "up_low": 4, "up_high": 5},
+      "3": {"down_low": 1, "down_high": 1, "up_low": 3, "up_high": 5},
+      "4": {"down_low": 0, "down_high": 0, "up_low": 4, "up_high": 5}
+    },
+    "3": {
+      "1": {"down_low": 0, "down_high": 1, "up_low": 4, "up_high": 5},
+      "2": {"down_low": 1, "down_high": 2, "up_low": 7, "up_high": 7},
+      "3": {"down_low": 1, "down_high": 1, "up_low": 6, "up_high": 7},
+      "4": {"down_low": 0, "down_high": 1, "up_low": 7, "up_high": 7}
+    },
+    "4": {
+      "1": {"down_low": 3, "down_high": 4, "up_low": 5, "up_high": 5},
+      "2": {"down_low": 2, "down_high": 3, "up_low": 8, "up_high": 8},
+      "3": {"down_low": 1, "down_high": 2, "up_low": 8, "up_high": 8},
+      "4": {"down_low": 0, "down_high": 1, "up_low": 9, "up_high": 9}
+    },
+    "6": {
+      "1": {"down_low": 1, "down_high": 2, "up_low": 6, "up_high": 6},
+      "2": {"down_low": 0, "down_high": 1, "up_low": 8, "up_high": 8},
+      "3": {"down_low": 0, "down_high": 1, "up_low": 9, "up_high": 9},
+      "4": {"down_low": 0, "down_high": 0, "up_low": 8, "up_high": 8}
+    }
+  }
+}
